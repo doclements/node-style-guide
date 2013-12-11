@@ -238,7 +238,7 @@ if (a == '') {
 
 ## Use single-line ternary operator
 
-The ternary operator should not be used on a single line. Split it up into multiple lines instead.
+The ternary operator should be used on a single line. Spliting it up into multiple lines makes it harder to read.
 
 *Right:*
 
